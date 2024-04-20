@@ -30,6 +30,6 @@ yarn build
 で`./dist`以下に必要なファイルをまとめられます。
 
 ```bash
-yarn serve
+yarn start
 ```
 でWebサーバーを起動し、ビルド済みアプリに`localhost`からアクセスできるようにします。
